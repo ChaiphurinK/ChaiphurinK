@@ -9,9 +9,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="ChaiphurinK | Email" width="22px" src="https://github.com/user-attachments/assets/19dc153a-a584-421e-8e8f-891aee10461a" />][email]
+[<img align="left" alt="ChaiphurinK | Email" width="22px" src="https://github.com/user-attachments/assets/faac67b3-4d76-410c-ae48-52e99c5feceb" />][email]
 [<img align="left" alt="ChaiphurinK | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ChaiphurinK | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/website.svg" />][website]
+[<img align="left" alt="ChaiphurinK | Website" width="22px" src="https://github.com/user-attachments/assets/be5fbf9b-661d-457c-83b4-f8e3e1656724" />][website]
 
 [email]: chaiphurin.k@gmail.com
 [linkedin]: https://www.linkedin.com/in/chaiphurin-k/
