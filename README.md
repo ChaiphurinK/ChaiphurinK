@@ -4,9 +4,12 @@
 
  - [Sales Data Analysis for a wellness company, Bellabeat](https://github.com/joshmadakor1/Algorithms-Practice)
 
+<h2>👨‍💻 Certifications</h2>
+ - [Google Data Analytics](https://github.com/joshmadakor1/Algorithms-Practice)
+
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="ChaiphurinK | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />][email]
+[<img align="left" alt="ChaiphurinK | Email" width="22px" src="https://github.com/user-attachments/assets/19dc153a-a584-421e-8e8f-891aee10461a" />][email]
 [<img align="left" alt="ChaiphurinK | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ChaiphurinK | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/website.svg" />][website]
 
