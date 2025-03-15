@@ -2,7 +2,7 @@
 
 <h2>📊 Data Analytics Projects</h2>
 
- - [Sales Data Analysis for a wellness company, Bellabeat](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Sales Data Analysis for a wellness company, Bellabeat](https://github.com/ChaiphurinK/BellabeatSales)
 
 <h2>📜 Certifications</h2>
 
