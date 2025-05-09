@@ -13,9 +13,9 @@
 
 <h2>📩 Connect with me:</h2>
 
-[<img align="left" alt="ChaiphurinK | Email" width="22px" src="https://github.com/user-attachments/assets/54636ac3-6ba0-4f8e-806b-1b90f5170240" />][email]
-[<img align="left" alt="ChaiphurinK | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ChaiphurinK | Website" width="22px" src="https://github.com/user-attachments/assets/be5fbf9b-661d-457c-83b4-f8e3e1656724" />][website]
+[<img align="left" alt="ChaiphurinK | Email" width="30px" src="https://static.vecteezy.com/system/resources/previews/016/716/465/non_2x/gmail-icon-free-png.png" />][email]
+[<img align="left" alt="ChaiphurinK | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" />][linkedin]
+[<img align="left" alt="ChaiphurinK | Website" width="30px" src="https://cdn-icons-png.flaticon.com/512/5450/5450877.png" />][website]
 
 [email]: chaiphurin.k@gmail.com
 [linkedin]: https://www.linkedin.com/in/chaiphurin-k/
