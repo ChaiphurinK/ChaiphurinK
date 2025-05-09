@@ -2,7 +2,7 @@
 
 <h2>📊 Data Analytics Projects</h2>
 
- - [Sales Data Analysis for a wellness company, Bellabeat](https://github.com/ChaiphurinK/BellabeatSales)
+ - [Online Retail Transaction Data Analysis](https://github.com/ChaiphurinK/RetailTransaction)
 
 <h2>📜 Courses</h2>
 
