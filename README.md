@@ -4,12 +4,12 @@
 
  - [Sales Data Analysis for a wellness company, Bellabeat](https://github.com/ChaiphurinK/BellabeatSales)
 
-<h2>📜 Certifications</h2>
+<h2>📜 Courses</h2>
 
  - [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/HLEJ1AAS0Z9M)
- - [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/specialization/HLEJ1AAS0Z9M)
- - [Google AI Essentials](https://www.coursera.org/account/accomplishments/specialization/HLEJ1AAS0Z9M)
- - [IBM Data Engineering](https://www.coursera.org/account/accomplishments/specialization/HLEJ1AAS0Z9M)
+ - Google Advanced Data Analytics (Ongoing)
+ - IBM Data Engineering (Ongoing)
+ - Google AI Essentials (Pending)
 
 <h2>📩 Connect with me:</h2>
 
